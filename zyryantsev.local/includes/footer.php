@@ -12,8 +12,8 @@
       </div>
       <p class="footer-tagline"><?= e($CONFIG['tagline']) ?></p>
       <nav class="footer-nav-row">
-        <a href="index.php#catalog">Программы</a>
-        <a href="index.php#benefits">Как учиться</a>
+        <a href="index.php#catalog">Все курсы</a>
+        <a href="index.php#benefits">Наши преимущества</a>
         <a href="index.php#reviews">Отзывы</a>
         <a href="index.php#contacts">Контакты</a>
       </nav>
